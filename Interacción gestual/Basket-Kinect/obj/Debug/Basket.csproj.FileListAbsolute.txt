@@ -1,0 +1,15 @@
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\Basket.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\MainWindow.baml
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\MainWindow.g.cs
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\App.g.cs
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\Basket.csproj.GenerateResource.Cache
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\BodyBasics-WPF.pdb

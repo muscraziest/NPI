@@ -1,0 +1,97 @@
+C:\Users\Antonio\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Antonio\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Antonio\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Antonio\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Antonio\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Antonio\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Antonio\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Antonio\Desktop\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Antonio\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Antonio\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Antonio\Desktop\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Antonio\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Antonio\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Antonio\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Antonio\Documents\GitHub\Practica-1-NPI\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Antonio\Documents\GitHub\Practica-1-NPI\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Antonio\Documents\GitHub\Practica-1-NPI\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Antonio\Dropbox\Practica-1-NPI\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Antonio\Dropbox\Practica-1-NPI\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Antonio\Dropbox\Practica-1-NPI\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Antonio\Dropbox\Practica-1-NPI\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Antonio\Dropbox\Practica-1-NPI\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Antonio\Dropbox\Practica-1-NPI\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Antonio\Dropbox\Practica-1-NPI\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Antonio\Dropbox\Practica-1-NPI\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Dropbox\Practica-1-NPI\obj\Debug\MainWindow.baml
+C:\Users\Antonio\Dropbox\Practica-1-NPI\obj\Debug\MainWindow.g.cs
+C:\Users\Antonio\Dropbox\Practica-1-NPI\obj\Debug\App.g.cs
+C:\Users\Antonio\Dropbox\Practica-1-NPI\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Antonio\Dropbox\Practica-1-NPI\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Antonio\Dropbox\Practica-1-NPI\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Antonio\Dropbox\Practica-1-NPI\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-1-NPI\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-1-NPI\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-1-NPI\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\obj\Debug\MainWindow.baml
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\obj\Debug\MainWindow.g.cs
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\obj\Debug\App.g.cs
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\obj\Debug\MainWindow.baml
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\obj\Debug\MainWindow.g.cs
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\obj\Debug\App.g.cs
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Valen\Dropbox\Valensuela y iop\Practica-2-NPI\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Antonio\Dropbox\Otros\Carpetas Compartidas\Valenzuela\Practica-2-NPI\obj\Debug\BodyBasics-WPF_Content.g.cs
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\obj\Debug\MainWindow.baml
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\obj\Debug\MainWindow.g.cs
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\obj\Debug\App.g.cs
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Laura\Google Drive\UGR\NPI\Prácticas\P1\Tiro-con-arco-Kinect-master\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\MainWindow.baml
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\MainWindow.g.cs
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\App.g.cs
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Laura\Google Drive\UGR\NPI\Interacción gestual\Basket-Kinect\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
