@@ -1,0 +1,16 @@
+#JSGF V1.0;
+
+grammar fecha;
+
+public <fecha> = [<C1>][<dia> {this.dia=$dia}][<C2>][<mes> {this.mes=$mes}];
+
+<C1> = [quiero] [cita] (para el dia | para el | el); 
+
+<C2> = de;
+
+<dia> = uno | dos | tres | cuatro | cinco | seis | siete | ocho | nueve | diez |
+		once | doce | trece | catorce | quince | dieciseis  | diecisiete | dieciocho | diecinueve | veinte |
+		veintiuno | veintidos | veintitres | veinticuatro | veinticinco | veintiseis | veintisiete | veintiocho |
+		veintinueve | treinta | treintaiuno;
+
+<mes> = enero | febrero | marzo | abril | mayo | junio | julio | agosto | septiembre | octubre | noviembre | diciembre;

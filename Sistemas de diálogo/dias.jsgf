@@ -1,0 +1,8 @@
+#JSGF V1.0;
+
+grammar dia;
+
+public  <dia> = uno | dos | tres | cuatro | cinco | seis | siete | ocho | nueve | diez |
+		once | doce | trece | catorce | quince | dieciseis  | diecisiete | dieciocho | diecinueve | veinte |
+		veintiuno | veintidos | veintitres | veinticuatro | veinticinco | veintiseis | veintisiete | veintiocho |
+		veintinueve | treinta | treintaiuno;
