@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SugarAid</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_main">Principal</string>
+    <string name="bienvenida">Bienvenido al sistema SugarAid, pulse el botón para comenzar</string>
+    <string name="mensaje_inicial">Dígame su nivel de azúcar</string>
+    <string name="mensaje_azucar_alta">Su nivel de azúcar es demasiado alto, debe ponerse en contacto con su médico</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="peso_usuario">Peso (kg)</string>
+    <string name="peso_usuario_resumen">Introduzca su peso</string>
+
+    <string name="datos_usuario">Datos personales</string>
+</resources>

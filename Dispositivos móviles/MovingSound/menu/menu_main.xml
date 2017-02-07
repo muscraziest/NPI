@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android2="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_shuffle"
+        android:icon="@drawable/rand"
+        android:orderInCategory="1"
+        android2:showAsAction="always"
+        android:title="Shuffle"/>
+
+    <item
+        android:id="@+id/action_replay"
+        android:icon="@drawable/replay"
+        android:orderInCategory="2"
+        android2:showAsAction="always"
+        android:title="Replay"/>
+
+    <item
+        android:id="@+id/action_micro"
+        android:icon="@drawable/micro"
+        android:orderInCategory="3"
+        android2:showAsAction="always"
+        android:title="Micro"/>
+
+</menu>
